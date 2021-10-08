@@ -1,4 +1,4 @@
-### **Tài liệu hướng dẫn sử dụng DataFeed Tool**
+### **Dữ liệu chứng khoán, phái sinh intraday cho Amibroker, MT4, MetaStock**
 *Đây là tài liệu hướng dẫn sử dụng cho [DataFeed Tool](https://datafeed.sqlite-crypt.com), công cụ cung cấp dữ liệu chứng khoán và phái sinh AmiBroker, MT4 và MetaStock miễn phí suốt đời và cực nhanh ngay trong phiên.*
 
 #### **Yêu cầu hệ thống**
